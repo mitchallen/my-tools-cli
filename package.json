@@ -7,9 +7,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["cli","commander","scriptable"],
+  "author": "Mitch Allen (mitchallen.com)",
+  "license": "MIT",
   "dependencies": {
     "commander": "^10.0.1",
     "cowsay": "^1.5.0",
