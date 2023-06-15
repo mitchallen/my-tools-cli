@@ -3,6 +3,12 @@ my-tools-cli
 
 My command line tools
 
+## Related article
+
+This code is from my article:
+
+* [How to Parse Command Line Arguments (CLI, Node.JS, Commander.js)](https://scriptable.com/how-to-parse-command-line-arguments-cli-nodejs/)
+
 ## Usage
 
 ```shell
